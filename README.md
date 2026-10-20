@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Monsters** · Team ID `VTU-QFF-HC-0058` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Monsters)
+[⬆ Back to Top](#quantum-monsters)
 
 </div>
